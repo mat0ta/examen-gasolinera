@@ -2,7 +2,7 @@
 
 Examen realizado por: [mat0ta](https://github.com/mat0ta)
 
-[[Link del repositorio](https://github.com/mat0ta/examen-gasolinera)]
+[ [Link del repositorio](https://github.com/mat0ta/examen-gasolinera) ]
  
 El examen realizado a continuación tiene el siguiente enunciado.
 
