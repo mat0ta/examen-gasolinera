@@ -46,7 +46,7 @@ Una vez realizada la parte anterior:
     
 El código empleado para resolver la tarea es el siguiente:
 
-´´´py
+```py
 import threading
 import time
 import random
@@ -110,7 +110,7 @@ class Gasolinera:
 if __name__ == "__main__":
     gasolinera = Gasolinera(15, 1, 50)
     gasolinera.main()
-´´´
+```
 
 Además, se ha generado código para resolver el examen através de la IA de Chat GPT.
 
